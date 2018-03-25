@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RoomRight</string>
+
+    <string name="empty_login_warning"> Please enter your email or password in the provided fields.</string>
+
+    <string name="wrong_user_warning"> Please enter a valid email and password combination.</string>
+
+    <string name="registered_user_warning">This email address is already registered. </string>
+
+    <string-array name="housing_options">
+        <item>VDC</item>
+        <item>VDC Norte</item>
+        <item>Puerta Del Sol</item>
+        <item>Camino Del Sol</item>
+        <item>Arroyo Vista</item>
+        <item>Verano Place</item>
+        <item>Campus Village</item>
+        <item>UTC</item>
+        <item>House</item>
+    </string-array>
+
+</resources>
